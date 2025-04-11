@@ -9,3 +9,5 @@ repo fyrir leikjaforitun 1 tækno
 # link a game folder: https://drive.google.com/file/d/1664p6dDBK4zkfHe-6B-OPZPDT6wGNKgp/view?usp=sharing
 
 # link a scripts https://drive.google.com/drive/folders/1AsmORCJwK2sQEZ4VshsLx0yeGLKWW8Sv?usp=sharing
+
+# link a assets https://drive.google.com/drive/folders/1BJRyIvZXiR_2PO_50dqsp5wkAUr9f2Hs?usp=sharing
