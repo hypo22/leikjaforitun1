@@ -15,4 +15,10 @@ repo fyrir leikjaforitun 1 tækno
 
 
 # verkefni 4
-##
+### link a video https://youtu.be/GQvhjkfLIPA
+
+###
+
+###
+
+###
