@@ -20,3 +20,9 @@ repo fyrir leikjaforitun 1 tækno
 ### link a möppu með leiknum https://drive.google.com/file/d/1H1ZC6j8rWe2tOFroTfuItkDxz22NH66N/view?usp=drive_link
 
 
+
+# verkefni 5
+### link a video https://youtu.be/L6bEGMuhaXU
+
+### link a möppu með leiknum https://drive.google.com/file/d/1H1ZC6j8rWe2tOFroTfuItkDxz22NH66N/view?usp=drive_link](https://drive.google.com/file/d/1PJtPr9oDbHfj1_OcxF4osvtlsetNeMs8/view?usp=sharing
+
